@@ -38,7 +38,7 @@ body{
 }
 #background3{
 	background-image: url("images/para/background3.jpg");
-	  height: 500px;
+	  
 	  width: 100%;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -48,7 +48,7 @@ body{
 }
 #background4{
 	background-image: url("images/para/background4.jpg");
-	  height: 500px;
+	 
 	  width: 100%;
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
